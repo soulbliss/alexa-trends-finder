@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 import urllib.request
-
+import sys
+import pyperclip
+import click
 
 ################################################################################
 ############# Algorithm for scraping and sorting a given Alexa url page ########
@@ -115,5 +117,22 @@ def main(url):
 
 
 if __name__ == '__main__':
-    call_one_only('https://www.alexa.com/topsites/category/Top/Computers/Artificial_Intelligence')
-    main(url)
+    if len(sys.argv) < 2:
+        print('\n\n\nRunning on default mode:\n1.Surface analysis only offered')
+        print('2.Expecting a url to be copied')
+        try:
+            pasted = pyperclip.paste()
+            print(pasted)
+        except Exception as e:
+            print('following error was raised: ' + e)
+
+    elif len(sys.argv) >2:
+        url = sys.argv[2]
+        argument_2 = sys.argv[2]
+        if url is None
+
+
+
+
+    #call_one_only('https://www.alexa.com/topsites/category/Top/Computers/Artificial_Intelligence')
+    #main(url)

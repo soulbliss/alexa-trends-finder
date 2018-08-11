@@ -21,7 +21,7 @@ offered. So to find a solution for that I created this script.
 
 For a given copied url of a certain topic like, let's say Science
 It will give the below results.
-[](https://github.com/soulbliss/alexa-trends-finder/blob/master/img/root.png)
+[](https://github.com/soulbliss/alexa-trends-finder/blob/master/img/root.png?raw=true)
 
 and the in depth version.
-[](https://github.com/soulbliss/alexa-trends-finder/blob/master/img/depth.png)
+[](https://github.com/soulbliss/alexa-trends-finder/blob/master/img/depth.png?raw=true)

@@ -87,22 +87,7 @@ The scraped folder contains the results for all major topics
 
 #### Features to be worked on:
 
-<<<<<<< HEAD
 - [ ] Predict future trends using predictive modelling.
-
 - [x] include the help argument handler.
-
 - [ ] Smart crawling by limitting requests sent per second.
-
- 
-=======
-- [ ]  Predict future trends using predictive modelling.
-
-- [x] include the help argument handler.
-
-- [ ]  Smart crawling by limitting requests sent per second.
-
-- [ ]  Add the asciinema on the readme page.
-
- 
->>>>>>> 485ac05b6f859c8f8cd374a8e985c432f3ada5ed
+- [ ] Add the asciinema on the readme page.

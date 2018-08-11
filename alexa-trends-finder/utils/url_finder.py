@@ -1,5 +1,5 @@
 import urllib.request
-from bs4 import
+from bs4 import BeautifulSoup
 
 
 ################################################################################

@@ -87,6 +87,7 @@ The scraped folder contains the results for all major topics
 
 #### Features to be worked on:
 
+<<<<<<< HEAD
 - [ ] Predict future trends using predictive modelling.
 
 - [x] include the help argument handler.
@@ -94,3 +95,12 @@ The scraped folder contains the results for all major topics
 - [ ] Smart crawling by limitting requests sent per second.
 
  
+=======
+- [ ]  Predict future trends using predictive modelling.
+
+- [x] include the help argument handler.
+
+- [ ]  Smart crawling by limitting requests sent per second.
+
+ 
+>>>>>>> 485ac05b6f859c8f8cd374a8e985c432f3ada5ed

@@ -102,5 +102,7 @@ The scraped folder contains the results for all major topics
 
 - [ ]  Smart crawling by limitting requests sent per second.
 
+- [ ]  Add the asciinema on the readme page.
+
  
 >>>>>>> 485ac05b6f859c8f8cd374a8e985c432f3ada5ed

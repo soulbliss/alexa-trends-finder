@@ -66,7 +66,7 @@ python core.py
 
 
 
-**Help output.**
+###**Help output.**
 
 ```
 Usage: core.py [OPTIONS]
